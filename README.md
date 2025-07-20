@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR Analytics Dashboard
 Got it! Here’s a **complete, well-structured `README.md`** draft for your **HR Analytics Dashboard in Tableau**, covering **all the sections** you requested in a clear, professional format:
 
 ---
